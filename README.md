@@ -1,87 +1,60 @@
-# Hi there 👋, I'm Prabol Pangmi
+# Prabol Pangmi
 
-### 🚀 AI/ML Enthusiast | Full-Stack Developer | Problem Solver
+Computer Science and Engineering (AI/ML) Student at Lovely Professional University (Batch 2028)
 
-I'm a B.Tech Computer Science & Engineering (AI/ML) student at **Lovely Professional University (Batch 2028)**. Passionate about building AI-powered applications, exploring machine learning, and creating impactful software solutions.
+I am interested in Artificial Intelligence, Machine Learning, and Software Development. I enjoy building practical applications, participating in hackathons, and continuously improving my technical skills through projects and problem-solving.
 
----
+## Current Focus
 
-## 🎯 About Me
+* Machine Learning and Deep Learning
+* Full-Stack Development
+* Data Structures and Algorithms
+* Building AI-powered applications
 
-* 🎓 Pursuing **B.Tech CSE (AI/ML)** at Lovely Professional University
-* 🤖 Interested in **Artificial Intelligence, Machine Learning, and Full-Stack Development**
-* 💻 Building projects using **Python, Java, JavaScript, HTML, CSS, and Streamlit**
-* 🏆 **Runner-Up** at the National Social Summit Hackathon, IIT Roorkee
-* 🌱 Currently learning **Advanced Machine Learning, Deep Learning, and Cloud Technologies**
-* 🚀 Always open to collaborating on innovative projects and hackathons
+## Technical Skills
 
----
+**Languages**
 
-## 🛠️ Tech Stack
+C • C++ • Java • Python • JavaScript
 
-### Languages
+**Web Technologies**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+HTML • CSS • Streamlit
 
-### Web Development
+**Tools**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+Git • GitHub • VS Code • Jupyter Notebook
 
-### Tools & Frameworks
+## Featured Project
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+### Intervio+
 
----
+An AI-powered placement interview assistant designed to help students prepare for technical interviews.
 
-## 🚀 Featured Projects
-
-### 🎯 Intervio+
-
-AI-powered placement interview assistant featuring:
+Key Features:
 
 * Resume Image Analysis
-* Domain-Specific Interview Questions
+* Domain-Specific Interview Question Generation
 * Interactive AI Interview Sessions
-* Streamlit-Based User Interface
+* Streamlit-Based Interface
 
-🔗 Repository: https://github.com/Prabol77/intervio-plus
+Repository: https://github.com/Prabol77/intervio-plus
 
----
+## Achievements
 
-## 🏆 Achievements
+* Runner-Up, National Social Summit Hackathon, IIT Roorkee
+* Developed an AI-based Virtual Assistant for Visually Impaired Individuals
+* Active participant in hackathons and technical competitions
 
-🥈 Runner-Up – National Social Summit Hackathon, IIT Roorkee
+## GitHub Statistics
 
-💡 Developed an AI-based Virtual Assistant for Visually Impaired Individuals
+![](https://github-readme-stats.vercel.app/api?username=Prabol77\&show_icons=true\&theme=transparent)
 
-🎓 Active participant in coding competitions, hackathons, and technical events
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prabol77\&theme=transparent)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabol77\&layout=compact\&theme=transparent)
 
-## 📈 GitHub Statistics
+## Connect
 
-![](https://github-readme-stats.vercel.app/api?username=Prabol77\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prabol77\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabol77\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* 📷 Instagram: https://www.instagram.com/pangmi_pp3
-* 📘 Facebook: https://www.facebook.com/share/FVD5k9ST1DqN29aR/
-
----
-
-### 💡 Motto
-
-> "Learning never exhausts the mind. Every project is a step toward mastery."
+* Instagram: https://www.instagram.com/pangmi_pp3
+* Facebook: https://www.facebook.com/share/FVD5k9ST1DqN29aR/
