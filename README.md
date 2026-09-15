@@ -115,23 +115,6 @@ An AI-powered placement interview assistant designed to help students prepare fo
 
 <br/>
 
-## 📊 `SYSTEM_ANALYTICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prabol77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Prabol77&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabol77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="49%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prabol77&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
-
-</div>
-
-> 💡 Note: the stats cards above pull live from public generators (github-readme-stats / streak-stats). If a card ever shows a loading error, it's usually temporary upstream downtime — refreshing the page fixes it, or you can self-host your own instance for full reliability (linked in the Add-ons section below).
-
-<br/>
-
 ## 📡 `CONNECT`
 
 <div align="center">
