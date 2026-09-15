@@ -143,7 +143,9 @@ An AI-powered placement interview assistant designed to help students prepare fo
 </div>
 
 <br/>
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/Prabol77/Prabol77/output/dist/snake-dark.svg" width="90%"/>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:203A43,100:0F2027&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
