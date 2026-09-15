@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F0FF&height=250&section=header&text=PRABOL%20PANGMI&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00F0FF&height=250&section=header&text=PRABOL%20PANGMI&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Prabol77">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Initializing+PRABOL_OS+v2.0...;Loading+Neural+Networks...;Compiling+Creativity+%2B+Code...;AI%2FML+Engineer+%7C+Full-Stack+Developer;Status%3A+Online+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=Initializing+PRABOL_OS+v2.0...;Loading+Neural+Networks...;Compiling+Creativity+%2B+Code...;AI%2FML+Engineer+%7C;Status%3A+Online+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
